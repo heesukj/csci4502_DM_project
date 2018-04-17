@@ -1,5 +1,15 @@
 # DM Project | Spring 2018
 
+## Outline:
+- Project title
+- Team members
+- Description of the project
+- Summary of the question(s) sought and the answers
+- Application of this knowledge
+- Link to the video demonstration
+- Link to your final project paper
+
+
 ## Title: 
 Correlation in Cause of High Total Fares of Chicago Taxi Rides 2016
 
