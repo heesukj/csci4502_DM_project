@@ -26,5 +26,5 @@ Taxi cab drivers and companies can use this knowledge to target areas with the h
 (file too big to be uploaded to Github)
 
 ### Final Project Paper:
-[Final Paper]()
+[Final Paper](https://github.com/heesukj/csci4502_DM_project/blob/master/10_CorrelationsInCostOfChicagoTaxiRides2016_Part4.pdf)
 
