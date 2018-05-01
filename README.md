@@ -22,7 +22,8 @@ Through our research, we found that Near North Side had the most pickups followe
 Taxi cab drivers and companies can use this knowledge to target areas with the highest pickup frequencies and know when the best time and day would be. Using this information can help them be efficient by getting the most rides and focusing in areas that give out the most tips. For example, not doing many rides on the 24th of some months, especially days that are related to family holidays.
 
 ### Video Demonstration:
-https://www.youtube.com/watch?v=8s935kYjSRo&feature=youtu.be
+[10_CorrelationsInCostOfChicagoTaxiRides2016_Part5](https://www.youtube.com/watch?v=8s935kYjSRo&feature=youtu.be)
+(file too big to be uploaded to Github)
 
 ### Final Project Paper:
 [Final Paper]()
