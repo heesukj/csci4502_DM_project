@@ -1,27 +1,29 @@
 # DM Project | Spring 2018
 
-## Outline:
-- Project title
-- Team members
-- Description of the project
-- Summary of the question(s) sought and the answers
-- Application of this knowledge
-- Link to the video demonstration
-- Link to your final project paper
+## Correlation in Cause of High Total Fares of Chicago Taxi Rides 2016
 
-
-## Title: 
-Correlation in Cause of High Total Fares of Chicago Taxi Rides 2016
-
-https://www.kaggle.com/chicago/chicago-taxi-rides-2016/data
+Dataset taken from: https://www.kaggle.com/chicago/chicago-taxi-rides-2016/data
 
 ### Team 10: 
 Noah Leuthaeuser | Joseph Alsko | Heesuk Jang | Rei Isobe
 
-### Interactive Data Visualization Tools - Bokeh and Plotly: 
+### Description:
+Our team looked into the frequencies of taxi cab rides in 2016, recorded by the City of Chicago, to find correlations with factors such as weather, date/time, and income. 
 
-https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Bokeh_Cheat_Sheet.pdf
+### Questions Sought to Answer:
+* How do certain factors, such as weather, date, and income, affect pickup frequency?
+* Which community areas give the most generous tips?
+* Which exact locations describe the most frequency of pickup?
+* Which routes describe the most frequency between pickup and dropoff community area? 
 
-https://bokeh.pydata.org/en/latest/
+Through our research, we found that Near North Side had the most pickups followed by Loop and Near West-Side, which were all near the downtown area. March through June had the most pickups which resulted in a negative correlation between snowfall and pickup frequency. The days leading up to the weekend had more pickup frequencies than the other days. The most frequenty taken routes were between community areas that were either next to each other close to downtown or downtown to O'Hare Airport.
 
-https://plot.ly/create/
+### Application of knowledge:
+Taxi cab drivers and companies can use this knowledge to target areas with the highest pickup frequencies and know when the best time and day would be. Using this information can help them be efficient by getting the most rides and focusing in areas that give out the most tips. For example, not doing many rides on the 24th of some months, especially days that are related to family holidays.
+
+### Video Demonstration:
+https://www.youtube.com/watch?v=8s935kYjSRo&feature=youtu.be
+
+### Final Project Paper:
+[Final Paper]()
+
